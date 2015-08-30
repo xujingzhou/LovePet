@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="WindowName" value="win">
+<param name="Font" value="宋体,9,134">
+</OBJECT>
+<UL>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="版本说明">
+			<param name="Local" value="Co..htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="常用操作">
+			<param name="Local" value="Operater.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="作者后话">
+			<param name="Local" value="writer.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="功能简介">
+			<param name="Local" value="introduce.htm">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

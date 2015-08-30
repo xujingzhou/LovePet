@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1
+Compiled file=lovePet.chm
+Contents file=lovePet.hhc
+Default Window=win
+Default topic=lovePet.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x804 中文(中国)
+Title=爱圣帮助文件
+
+[WINDOWS]
+win="爱圣帮助文件","lovePet.hhc","index.hhk","lovepet.htm","lovepet.htm",,,,,0x2520,,0x387e,[129,112,934,600],0x11000000,0x10014,,0,,,
+
+
+[FILES]
+lovePet.htm
